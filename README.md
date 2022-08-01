@@ -1,7 +1,7 @@
 # VMA
 Domain-Variance-and-Modality-Aware-Model-Transfer
 
-This repo is for the paper: "VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition" at IPSN 2022.
+This repo is for the paper: [VMA: Domain Variance- and Modality-Aware Model Transfer for Fine-Grained Occupant Activity Recognition](https://ieeexplore.ieee.org/abstract/document/9826076) at IPSN 2022.
 
 To run the demo code, please download the data from this [link](https://drive.google.com/file/d/1j2M1KRbOmdycxWckAnOpyh3I44vizkOw/view?usp=sharing).
 Please unzip it first to the project directory and open the `run_demo_paper.ipynb`. Please run the notebook follows the guidlines inside.

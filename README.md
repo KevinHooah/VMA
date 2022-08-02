@@ -6,7 +6,7 @@ This repo is for the paper: [VMA: Domain Variance- and Modality-Aware Model Tran
 To run the demo code, please download the data from this [link](https://drive.google.com/file/d/1j2M1KRbOmdycxWckAnOpyh3I44vizkOw/view?usp=sharing).
 Please unzip it first to the project directory and open the `run_demo_paper.ipynb`. Please run the notebook follows the guidlines inside.
 
-The dataset of the project can be found at [Zonodo](https://zenodo.org/). Please follow the data pre-process procedure described in the paper if you want to extract the hand-crafted feature. For end-to-end deep feature (which is what I am highly interested in and encourage everyone to try), their is a toy model in the `demo_future_direction.ipynb` for you to play with.
+The dataset of the project can be found at [Zenodo](https://zenodo.org/). Please follow the data pre-process procedure described in the paper if you want to extract the hand-crafted feature. For end-to-end deep feature (which is what I am highly interested in and encourage everyone to try), their is a toy model in the `demo_future_direction.ipynb` for you to play with.
 
 If you find this code or dataset is usefull, we will be glad if you can cite us in your paper :-)
 
